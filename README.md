@@ -1,0 +1,1 @@
+# A-Distributed-Approach-to-Satellite-Direct-to-Cell-Connectivity-in-6G-Non-Terrestrial-Networks
