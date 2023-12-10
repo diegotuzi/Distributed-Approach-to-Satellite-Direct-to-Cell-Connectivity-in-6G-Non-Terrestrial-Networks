@@ -1,4 +1,4 @@
-*Update 10.12.2023: The article will be published in the December 2023 issue of IEEE Wireless Communications Magazine. The code will be uploaded when the article will be available on IEEE Xplore.*
+*Update 10.12.2023: The article is going to be published in the December 2023 issue of IEEE Wireless Communications Magazine. The code will be uploaded when the article will be published on IEEE Xplore.*
 
 # Distributed Approach to Satellite Direct-to-Cell Connectivity in 6G Non-Terrestrial Networks
 This repository provides the code generated for the following article:
