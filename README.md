@@ -1,9 +1,8 @@
-*Update 10.12.2023: The article is going to be published in the December 2023 issue of IEEE Wireless Communications Magazine. The code will be uploaded when the article will be published on IEEE Xplore.*
-
 # Distributed Approach to Satellite Direct-to-Cell Connectivity in 6G Non-Terrestrial Networks
 This repository provides the code generated for the following article:
 - Title: Distributed Approach to Satellite Direct-to-Cell Connectivity in 6G Non-Terrestrial Networks
 - Authors: Diego Tuzi, Estephania Flores Aguilar, Thomas Delamotte, Gunes Karabulut-Kurt, and Andreas Knopp
+- Link: https://ieeexplore.ieee.org/document/10355084
 
 ## Description
 The code has been written using MATLAB R2023b and it is basically subdivided into two files:
